@@ -9,8 +9,6 @@ import CalendarHabitItem from '../components/CalendarHabitItem';
 import CustomIcon from '../utils/CustomIcon';
 import { Ionicons } from '@expo/vector-icons';
 
-// temp
-
 const setupDateForPicker = (date) => {
     let pickerDate;
 
