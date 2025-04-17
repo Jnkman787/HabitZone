@@ -3,7 +3,7 @@ import { View, Text, StyleSheet, FlatList, Image } from 'react-native';
 import { width, scale, verticalScale } from '../utils/Scaling';
 import { useSelector } from 'react-redux';
 import Colors from '../utils/Colors';
-import DatePicker from 'react-native-modern-datepicker';
+import DatePicker from 'react-native-modern-datepicker'
 
 import CalendarHabitItem from '../components/CalendarHabitItem';
 import CustomIcon from '../utils/CustomIcon';
