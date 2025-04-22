@@ -7,7 +7,7 @@ import DatePicker from 'react-native-modern-datepicker';
 
 import CalendarHabitItem from '../components/CalendarHabitItem';
 import CustomIcon from '../utils/CustomIcon';
-import { Ionicons } from '@expo/vector-icons'
+import { Ionicons } from '@expo/vector-icons';
 
 const setupDateForPicker = (date) => {
     let pickerDate;
