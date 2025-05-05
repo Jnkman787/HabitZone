@@ -16,7 +16,7 @@ const fetchFonts = () => {
     'roboto-medium': require('./src/assets/fonts/Roboto-Medium.ttf'),
     'westmeath': require('./src/assets/fonts/Westmeath-regular.ttf'),
     'sketch': require('./src/assets/fonts/Sketch_Block.ttf')
-  })
+  });
 };
 
 export default function App() {
